@@ -1,0 +1,70 @@
+.root {
+  background-color: #0f172a;
+}
+.HN {
+  /* color: var(--Color, #fff); */
+
+  /* Navigation */
+  font-family: DM Sans;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%; /* 25.2px */
+  letter-spacing: -0.63px;
+}
+
+.Hnav {
+  color: var(--Color, #fff);
+  font-family: Playfair Display;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 120%; /* 25.2px */
+}
+
+/* section.hero {
+  margin: 5rem 0;
+}
+
+.text-hero,
+.text-lable {
+  margin: 24px 0;
+} */
+.text-lable {
+  color: var(--White, var(--Color, #fff));
+  font-family: Playfair Display;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 74px;
+}
+.text-hero-regular {
+  color: var(--White, var(--Color, #fff));
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+}
+
+.locationDetails {
+  color: var(--gray-dark-600, #d1d5db);
+
+  /* Body2/Normal - All */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+/* availability */
+.avilabalDetails {
+  color: var(--gray-dark-600, #d1d5db);
+
+  /* Body2/Normal - All */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
